@@ -1,0 +1,3 @@
+a.txt
+arquivo teste git cliente.
+pedro teles
